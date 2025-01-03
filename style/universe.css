@@ -1,0 +1,11 @@
+div{
+    background-color: rgb(0, 255, 68);
+    color: black;
+    font-size: medium;
+    padding: 20px;
+    margin: 20px;
+}
+img{
+    height: 230px;
+    width: 360px;
+}
